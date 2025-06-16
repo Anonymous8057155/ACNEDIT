@@ -25,9 +25,8 @@ You can download the generated images for the `severe` and `very severe` classes
 
 ## 🧪 Notes
 
-- All synthetic images were generated using **real facial data** with **locally applied acne edits** to preserve realism.
+- All synthetic images were generated using **real facial data** from ACNE04 dataset with **locally applied acne edits** to preserve realism.
 - Images are in `.jpg` format and organized by severity label (`levle2_generated/` and `levle3_generated/` folders).
-- File names are anonymized and do not overlap with the original ACNE04 dataset.
 
 ## 📄 Citation
 If you use these images in your research, please cite our work (anonymized for the moment).
