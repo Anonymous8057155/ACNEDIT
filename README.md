@@ -6,6 +6,8 @@ This repository provides access to a set of **synthetic acne images** generated 
 
 The original ACNE04 dataset has an **imbalanced distribution** of acne severity levels, which may bias learning algorithms. To address this, we generated additional samples for the underrepresented categories (`severe` and `very severe`) using our realistic acne synthesis approach.
 
+
+Below are examples of synthetic images generated for various acne severity levels, highlighting how our method augments underrepresented categories.
 ![Example](https://github.com/user-attachments/assets/9c7df5cc-d5c0-4a54-b5f0-e1ced61af096)
 
 ## 📊 Severity Distribution
